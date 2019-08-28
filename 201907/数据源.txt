@@ -1,0 +1,8 @@
+https://github.com/HKUST-KnowComp/MNE
+https://linqs.soe.ucsc.edu/data
+https://github.com/thunlp/OpenNE/tree/master/data/wiki
+https://snap.stanford.edu/node2vec/#datasets
+http://socialcomputing.asu.edu/datasets/BlogCatalog
+
+http://deim.urv.cat/~manlio.dedomenico/data.php
+https://github.com/ginestrab
